@@ -1,0 +1,54 @@
+body{
+  background-color: #34495e;
+}
+a{
+  color:#bdc3c7;
+  text-decoration: none;
+}
+.top-links{
+  background-color:#2c3e50;
+  padding:10px;
+  margin:0px 0px 5px 0px;
+}
+.board{
+  margin:auto;
+  text-align: center;
+  display:block;
+}
+.container{
+  width:1300px;
+}
+.row{
+  margin: -4px 0px; 
+}
+.cell{
+  border:1px solid #000;
+  padding:10px;
+  display: inline-block;
+}
+.live{
+  background-color: #2ecc71;
+}
+.dead{
+  background-color: #7f8c8d;
+}
+.button-wrap{
+  margin:0 auto;
+  text-align:center;
+  padding:20px;
+}
+.button-green {
+    background: rgb(28, 184, 65); /* this is a green */
+}
+
+.button-red {
+    background: rgb(202, 60, 60); /* this is a maroon */
+}
+
+.button-orange {
+    background: rgb(223, 117, 20); /* this is an orange */
+}
+
+.button-blue {
+    background: rgb(66, 184, 221); /* this is a light blue */
+}
